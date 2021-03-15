@@ -59,6 +59,7 @@
 
 
 ## 
+* A reactive system is both scalable and resilient, producing responses with consistent latencies despite demanding workloads and failures.
 * Dependable applications that are message-driven, resilient, elastic, and responsive.
 
 
